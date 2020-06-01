@@ -1,5 +1,16 @@
 # Changelog
 
+### [1.13.1](https://www.github.com/googleapis/java-bigtable/compare/v1.13.0...v1.13.1) (2020-06-01)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.6.0 ([#325](https://www.github.com/googleapis/java-bigtable/issues/325)) ([6fc5b7b](https://www.github.com/googleapis/java-bigtable/commit/6fc5b7b1f13c5326001cc7bcecbf4918a8505d26))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.7.0 ([#326](https://www.github.com/googleapis/java-bigtable/issues/326)) ([2aab7a8](https://www.github.com/googleapis/java-bigtable/commit/2aab7a8ec8775ab67e0277fd1785ee4735e1521d))
+* update dependency com.google.errorprone:error_prone_annotations to v2.4.0 ([#328](https://www.github.com/googleapis/java-bigtable/issues/328)) ([b9e5e83](https://www.github.com/googleapis/java-bigtable/commit/b9e5e832791b728d5931e1fe4546d01ffb4903d1))
+* update protobuf.version to v3.12.2 ([#320](https://www.github.com/googleapis/java-bigtable/issues/320)) ([d5cf1d4](https://www.github.com/googleapis/java-bigtable/commit/d5cf1d4a62f9782c18a2d7ebb48d137426f84d5b))
+* use google-cloud-shared-dependencies in bigtable deps bom ([#324](https://www.github.com/googleapis/java-bigtable/issues/324)) ([8f76fc8](https://www.github.com/googleapis/java-bigtable/commit/8f76fc8e7d326ed7837070cf496a2f20d4c7485e))
+
 ## [1.13.0](https://www.github.com/googleapis/java-bigtable/compare/v1.12.2...v1.13.0) (2020-05-27)
 
 
